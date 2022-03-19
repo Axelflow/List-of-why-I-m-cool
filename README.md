@@ -1,4 +1,5 @@
 #### A list of of reasons of why I'm the coolest person on the planet (in no particular order)
+[Back to Main Page](README.md)
 
 * Can reach the top shelf
 * Has held at least one dog
@@ -10,6 +11,3 @@
 * Favorite movie is Tron
 * Epic Skater dude
 * Knows very cool and secret family recipes
-
-[Back to Main Page](README.md)
-
