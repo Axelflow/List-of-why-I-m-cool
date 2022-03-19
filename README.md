@@ -11,5 +11,5 @@
 * Epic Skater dude
 * Knows very cool and secret family recipes
 
-[Back to Main Page](https://github.com/Axelflow/Axelflow.git)
+[Back to Main Page](README.md)
 
